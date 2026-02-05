@@ -1,6 +1,19 @@
 # CHANGELOG
 
 
+## v2.4.5 (2026-02-05)
+
+### Bug Fixes
+
+- Handle missing session-id as specific error
+  ([#386](https://github.com/pyenphase/pyenphase/pull/386),
+  [`f159993`](https://github.com/pyenphase/pyenphase/commit/f15999342c039f7087c1bbc3ac9a266562922ec6))
+
+- Raise missing session-id with specific error text
+  ([#386](https://github.com/pyenphase/pyenphase/pull/386),
+  [`f159993`](https://github.com/pyenphase/pyenphase/commit/f15999342c039f7087c1bbc3ac9a266562922ec6))
+
+
 ## v2.4.4 (2026-02-05)
 
 ### Bug Fixes
