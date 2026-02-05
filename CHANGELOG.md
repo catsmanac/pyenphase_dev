@@ -1,6 +1,42 @@
 # CHANGELOG
 
 
+## v2.4.4 (2026-02-05)
+
+### Bug Fixes
+
+- Handle ACB storage without percentFull key
+  ([#389](https://github.com/pyenphase/pyenphase/pull/389),
+  [`91bba1c`](https://github.com/pyenphase/pyenphase/commit/91bba1c3717da62200a0e7c45c1c47a5d1dd2825))
+
+### Chores
+
+- **deps**: Bump orjson from 3.11.5 to 3.11.6
+  ([#392](https://github.com/pyenphase/pyenphase/pull/392),
+  [`7c17426`](https://github.com/pyenphase/pyenphase/commit/7c17426bcabc5578564254ad1d1d81199baf3e45))
+
+- **deps**: Bump pyjwt from 2.10.1 to 2.11.0
+  ([#393](https://github.com/pyenphase/pyenphase/pull/393),
+  [`c9a4345`](https://github.com/pyenphase/pyenphase/commit/c9a4345811ae2ffd6852c9f951660e93aff21932))
+
+- **deps-dev**: Bump sphinx-rtd-theme from 3.0.2 to 3.1.0
+  ([#387](https://github.com/pyenphase/pyenphase/pull/387),
+  [`d221060`](https://github.com/pyenphase/pyenphase/commit/d221060e3b7399dca80fda3f6e4e8a420b183dfe))
+
+- **deps-dev**: Bump syrupy from 5.0.0 to 5.1.0
+  ([#390](https://github.com/pyenphase/pyenphase/pull/390),
+  [`db87bab`](https://github.com/pyenphase/pyenphase/commit/db87bab411b15936c9e725206cb157b22decda38))
+
+- **pre-commit.ci**: Pre-commit autoupdate ([#394](https://github.com/pyenphase/pyenphase/pull/394),
+  [`ab5dc67`](https://github.com/pyenphase/pyenphase/commit/ab5dc6798d20c4fc70d31af9ed4dd889b4a79911))
+
+- **pre-commit.ci**: Pre-commit autoupdate ([#391](https://github.com/pyenphase/pyenphase/pull/391),
+  [`b193b51`](https://github.com/pyenphase/pyenphase/commit/b193b519c96788b0b5ddff59ff7bd72308358203))
+
+- **pre-commit.ci**: Pre-commit autoupdate ([#388](https://github.com/pyenphase/pyenphase/pull/388),
+  [`9fd0321`](https://github.com/pyenphase/pyenphase/commit/9fd03213b58a8000d92d116e30faad9a8838f10d))
+
+
 ## v2.4.3 (2026-01-14)
 
 ### Bug Fixes
